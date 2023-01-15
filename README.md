@@ -1,2 +1,2 @@
 # BookClub
-A digital to manage and track your personal library
+A digital way to manage and track your personal library
